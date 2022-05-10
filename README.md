@@ -7,6 +7,8 @@
 
 [理科生讲音乐](https://www.youtube.com/c/%E7%90%86%E7%A7%91%E7%94%9F%E8%AE%B2%E9%9F%B3%E4%B9%90) ：理科生吗，都比较喜欢表达严谨，逻辑清晰，信息密度高的视频。 [代表作](https://www.youtube.com/watch?v=vSqoWFauosM)
 
+[王识君](https://www.youtube.com/channel/UC3vYz1SAtcbRhsatydObGQw) : 旅美钢琴家，美国韦伯州立大学钢琴副教授。
+
 [视唱练耳合集](https://www.bilibili.com/video/BV1YK4y1P79E)
 [另一个视唱练耳视频](https://www.youtube.com/watch?v=vsr5s0j4mlU&list=PLfI295NRzYD9kRTdL5xJwqnZocSnfLB2e&index=8) 
 
