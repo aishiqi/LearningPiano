@@ -19,16 +19,27 @@
 
 ## APP
 [Flowkey](https://www.flowkey.com/en)
+
 [Simple Piano](https://apps.apple.com/us/app/simply-piano-by-joytunes/id1019442026) : 偏娱乐性一点
+
 [钢琴吧(Piano Bar)](https://www.tan8.com/) : 比较国内化，有详细分类，但是绝大部分乐谱需要会员。
+
 [MuseScore](https://musescore.org/) : 搜谱软件，播放器很强大，可以已调，变速。
+
 [Notes Trainer](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416) : 免费而又简洁的读谱训练软件，推荐。
+
 [EarMaster](https://www.earmaster.com/) : 一个练耳的App，可以测试一下能不能听出来音程。
+
 [LiveBPM](https://apps.apple.com/us/app/livebpm-beat-detector/id554766778) : 一个可以显示你当前节拍速度的软件。
+
 [Cubasis 3](https://apps.apple.com/us/app/cubasis-3-daw-studio/id1207839273) : iOS上唯一功能相对完善的Digital Audio Workstation（好像和学钢琴没太大关系？）
+
 [群主自己做的一个刷鼓谱的网页](https://master.dmgkx8n1iiiud.amplifyapp.com/) : 为了练习快速视奏复杂的架子鼓节奏
+
 如果需要扒谱，淘宝搜“扒谱”，大约300元一个钢琴谱吧？
+
 谷歌搜索 “钢琴陪练”， 有一些可以远程陪练的平台，搜到VIP陪练，小叶子陪练，用过的人来评价一下?
+
 
 ## 钢琴购买推荐
 ...
