@@ -32,6 +32,8 @@
 
 [EarMaster](https://www.earmaster.com/) : 一个练耳的App，可以测试一下能不能听出来音程。
 
+[Pro Metronome](https://apps.apple.com/us/app/pro-metronome-tempo-beat-subdivision-polyrhythm/id477960671) : 节拍器，电钢琴一般都自带。
+
 [LiveBPM](https://apps.apple.com/us/app/livebpm-beat-detector/id554766778) : 一个可以显示你当前节拍速度的软件。
 
 [Cubasis 3](https://apps.apple.com/us/app/cubasis-3-daw-studio/id1207839273) : iOS上唯一功能相对完善的Digital Audio Workstation（好像和学钢琴没太大关系？）
@@ -56,4 +58,3 @@
 ... 
 
 ## Q&A
-...
