@@ -5,6 +5,8 @@
 
 [科学钢琴](https://www.youtube.com/channel/UC5klt5JEz-CcNwPlLSHqlAQ) ：代表作 ： [认识五线谱](https://www.youtube.com/watch?v=o5p15cvndPw)
 
+[2020摄制组大师讲座系列之三：音乐创作101](https://www.youtube.com/watch?v=zNMsMx6R2yk)
+
 [理科生讲音乐](https://www.youtube.com/c/%E7%90%86%E7%A7%91%E7%94%9F%E8%AE%B2%E9%9F%B3%E4%B9%90) ：理科生吗，都比较喜欢表达严谨，逻辑清晰，信息密度高的视频。 [代表作](https://www.youtube.com/watch?v=vSqoWFauosM)
 
 [王识君](https://www.youtube.com/channel/UC3vYz1SAtcbRhsatydObGQw) : 旅美钢琴家，美国韦伯州立大学钢琴副教授。
